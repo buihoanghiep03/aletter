@@ -8,7 +8,7 @@
           Có một lá thư cho em
         </h1>
         <p class="subtitle font-body">
-          Những dòng này có thể đã ở chỗ em nếu như em nhận quà của anh
+          Lẽ ra bức thư này đã có thể nằm trong tay em, nếu hôm đó em nhận món quà anh gửi. Nhưng có lẽ, cuối cùng anh vẫn chỉ có thể gửi em những lời chưa kịp nói, qua cách này.
         </p>
       </header>
 
